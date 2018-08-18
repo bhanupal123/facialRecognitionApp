@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bhanupal/FacialRecognitionActivity4/app/libs/library-1.0.19.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/bhanupal/FacialRecognitionActivity4/app/build/intermediates/pre-dexed/release/library-1.0.19-d33157cb0fbf89eda6ceada1af19fbf8f65195c7.jar" />
+    </item>
+    <item
+        jar="/home/bhanupal/FacialRecognitionActivity4/app/libs/sd-sdk-facial-processing.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="18b675f7e2b5895521c475cded91414e2bfbe047">
+        <dex dex="/home/bhanupal/FacialRecognitionActivity4/app/build/intermediates/pre-dexed/release/sd-sdk-facial-processing-104b10d154a5914a51d646a3322d248c92896875.jar" />
+    </item>
+
+</items>

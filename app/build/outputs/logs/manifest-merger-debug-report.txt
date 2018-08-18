@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:3:1-60:12
+	xmlns:android
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:3:11-69
+	package
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:4:5-61
+		INJECTED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:6:5-30
+	android:versionCode
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:10:9-38
+		INJECTED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:9:9-34
+		INJECTED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.CAMERA
+ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:15:22-62
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:16:22-76
+uses-feature#android.hardware.camera
+ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:19:5-60
+	android:name
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:19:19-57
+uses-permission#android.permission.INTERNET
+ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:20:22-64
+application
+ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:22:5-58:19
+	android:label
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:26:9-41
+	android:allowBackup
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:25:9-45
+	android:configChanges
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:24:9-44
+	android:largeHeap
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:27:9-33
+activity#com.qualcomm.snapdragon.sdk.recognition.sample.FacialRecognitionActivity
+ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:28:9-38:20
+	android:screenOrientation
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:30:13-45
+	android:theme
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:32:13-71
+	android:name
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:29:13-100
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:36:27-74
+activity#com.qualcomm.snapdragon.sdk.recognition.sample.AddPhoto
+ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:39:9-43:20
+	android:screenOrientation
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:41:13-61
+	android:name
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:40:13-83
+activity#com.qualcomm.snapdragon.sdk.recognition.sample.ImageConfirmation
+ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:46:13-70
+	android:name
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:45:13-92
+activity#com.qualcomm.snapdragon.sdk.recognition.sample.ChooseUser
+ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:50:13-63
+	android:name
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:49:13-85
+activity#com.qualcomm.snapdragon.sdk.recognition.sample.LiveRecognition
+ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:52:9-57:20
+	android:screenOrientation
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:54:13-68
+	android:theme
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:55:13-71
+	android:name
+		ADDED from /home/bhanupal/FacialRecognitionActivity4/app/src/main/AndroidManifest.xml:53:13-90
